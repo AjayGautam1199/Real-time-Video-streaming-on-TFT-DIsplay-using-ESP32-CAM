@@ -2,7 +2,9 @@
 
 This project demonstrates how to stream real-time video from an ESP32 CAM module to a TFT display. The ESP32 CAM is a low-cost microcontroller with an integrated camera and WiFi, making it perfect for IoT projects that require video streaming capabilities.
 
-![Demo](demo.gif)
+
+## Demo
+![Demo] (demo.gif)
 
 ## Table of Contents
 - [Features](#features)
@@ -58,7 +60,7 @@ To connect the ESP32 CAM to the TFT display, follow the wiring diagram below:
 3. Open the `cam_ajay_g.ino` file in Arduino IDE.
 
 4. Select your board and port:
-    - Go to **Tools** -> **Board** and select `ESP32 Wrover Module`
+    - Go to **Tools** -> **Board** and select `AI Thinker ESP32-CAM`
     - Go to **Tools** -> **Port** and select the appropriate port for your ESP32 CAM.
 
 5. Upload the code to your ESP32 CAM.
