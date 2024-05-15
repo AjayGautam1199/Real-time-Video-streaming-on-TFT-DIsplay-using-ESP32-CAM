@@ -55,7 +55,7 @@ To connect the ESP32 CAM to the TFT display, follow the wiring diagram below:
     - Go to **Sketch** -> **Include Library** -> **Manage Libraries...**
 
 
-3. Open the `esp32_cam_tft.ino` file in Arduino IDE.
+3. Open the `cam_ajay_g.ino` file in Arduino IDE.
 
 4. Select your board and port:
     - Go to **Tools** -> **Board** and select `ESP32 Wrover Module`
