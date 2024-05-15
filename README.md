@@ -4,7 +4,7 @@ This project demonstrates how to stream real-time video from an ESP32 CAM module
 
 
 ## Demo
-![Demo]([demo_cam.gif](https://github.com/AjayGautam1199/Real-time-Video-streaming-on-TFT-DIsplay-using-ESP32-CAM/blob/main/demo_cam.gif))
+![Demo](demo_cam.gif)
 
 ## Table of Contents
 - [Features](#features)
