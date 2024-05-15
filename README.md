@@ -4,7 +4,7 @@ This project demonstrates how to stream real-time video from an ESP32 CAM module
 
 
 ## Demo
-![Demo](demo.gif)
+![Demo](demo_cam.gif)
 
 ## Table of Contents
 - [Features](#features)
