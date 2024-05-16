@@ -17,7 +17,7 @@ void takeSavePhoto(){
  
   
   if(!fb) {
-    ESP.restart();
+    ESP.restart();// restrat the esp if frame not capture 
   }
 
   String path = getPictureFilename();
