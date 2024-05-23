@@ -4,7 +4,7 @@
 #include "esp_camera.h"
 #include <SPI.h>
 #include <TJpg_Decoder.h>
-// #include "sd_store_AjayG.h"
+// #include "sd_store_AjayG.h" //storage is not supporting, fix soon
 #define CAMERA_MODEL_AI_THINKER
 #define PWDN_GPIO_NUM     32
 #define RESET_GPIO_NUM    -1
