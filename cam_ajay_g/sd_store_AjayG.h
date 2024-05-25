@@ -6,7 +6,7 @@
 void initMicroSDCard() {
 SD_MMC.begin();
 }
-//it will work!
+//it will work! working but have some problem
 String getPictureFilename(){
   String filename = "/picture_" + String(random(1,3600)) +".jpg";
   return filename; 
